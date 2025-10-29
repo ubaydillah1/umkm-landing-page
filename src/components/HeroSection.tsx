@@ -2,15 +2,15 @@ import { Button } from "./ui/button";
 
 const HeroSection = () => {
   return (
-    <section className="min-h-screen sm:py-10 container-width px-4 sm:px-0 space-y-10 py-[100px]">
+    <section className="sm:pt-[120px] container space-y-7 sm:space-y-10 pt-[100px] pb-10">
       <p className="text-center text-primary flex justify-center gap-2.5">
         <div className="animate-shake-slow">👋</div>{" "}
-        <span>Hi, Kita dari kelompok ...</span>
+        <span className="text-sm sm:text-lg">Hi, Kita dari kelompok ...</span>
       </p>
       <h1 className="text-center text-[32px] sm:text-[100px] font-recoleta mx-auto sm:leading-[100px] ">
         Menggali Potensi Lokal, Membawa UMKM ke Layar Global.
       </h1>
-      <p className="text-center sm:max-w-[400px] mx-auto text-[12px] max-w-[80%] sm:text-sm">
+      <p className="text-center sm:max-w-[400px] mx-auto text-[12px] max-w-[80%] sm:text-sm opacity-70">
         Kami menjembatani antara kreasi lokal dan pasar digital, menciptakan
         branding yang kuat, dan membangun ekosistem bisnis yang berkelanjutan.
       </p>
