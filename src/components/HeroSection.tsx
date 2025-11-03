@@ -58,13 +58,13 @@ const HeroSection = () => {
       initial="hidden"
       animate="show"
     >
-      <motion.p
+      <motion.div
         variants={item}
         className="text-center text-primary flex justify-center gap-2.5"
       >
         <div className="animate-shake-slow">👋</div>
-        <span className="text-sm sm:text-lg">Hi, Kita dari kelompok ...</span>
-      </motion.p>
+        <span className="text-sm sm:text-lg">Hi, Kita dari kelompok AUD</span>
+      </motion.div>
 
       <motion.h1
         variants={item}
@@ -116,10 +116,10 @@ const HeroSection = () => {
 
         <div className="absolute inset-0 bg-linear-to-t from-black/40 via-transparent to-transparent" />
 
-        <div className="absolute bottom-6 left-6">
+        <div className="absolute bottom-2 sm:bottom-6 left-6">
           <motion.h3
             key={currentImageIndex}
-            className="text-white text-xl sm:text-2xl font-bold"
+            className="text-white text-lg sm:text-2xl font-bold"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
