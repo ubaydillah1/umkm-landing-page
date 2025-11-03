@@ -9,9 +9,8 @@ MaduraKita adalah proyek akselerasi digital yang menjembatani **kreasi lokal (UM
 Proyek *landing page* dan ekosistem digital MaduraKita dibangun menggunakan teknologi modern untuk memastikan performa yang cepat dan pengalaman pengguna yang optimal.
 
 * **Frontend Framework:** React (Vite)
-* **Styling:** Tailwind CSS
-* **State Management:** Context API (opsional)
-* **Deployment:** Vercel / Netlify
+* **Styling:** Tailwind CSS, Framer-motion, Motion
+* **Deployment:** Vercel 
 
 ---
 
