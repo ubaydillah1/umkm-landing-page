@@ -52,10 +52,6 @@ Setelah instalasi selesai, jalankan perintah berikut untuk memulai server pengem
 npm run dev
 ```
 
-## 🙏 Ucapan Terima Kasih
-
-Kami mengucapkan terima kasih yang sebesar-besarnya kepada KSM MULTIMEDIA UPN "VETERAN" JAKARTA karena telah memberikan kami kesempatan untuk berpartisipasi dalam **MULTIMEDIA IN ACTION 2025** dan menyalurkan potensi kami dalam dunia digital.
-
 ---
 
 ## 🤝 Kontribusi
