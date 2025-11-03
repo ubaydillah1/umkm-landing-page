@@ -36,3 +36,29 @@ Buka terminal atau Git Bash Anda, dan jalankan perintah berikut:
 ```bash
 git clone [https://github.com/ubaydillah1/umkm-landing-page.git](https://github.com/ubaydillah1/umkm-landing-page.git)
 cd umkm-landing-page
+```
+
+### 2. Install Dependencies
+
+Setelah masuk ke direktori proyek, jalankan perintah berikut untuk menginstal semua dependensi yang dibutuhkan:
+
+```bash
+npm install
+```
+### 3. Jalankan Proyek Secara Lokal
+
+Setelah instalasi selesai, jalankan perintah berikut untuk memulai server pengembangan:
+
+```bash
+npm run dev
+```
+
+## 🙏 Ucapan Terima Kasih
+
+Kami mengucapkan terima kasih yang sebesar-besarnya kepada KSM MULTIMEDIA UPN "VETERAN" JAKARTA karena telah memberikan kami kesempatan untuk berpartisipasi dalam **MULTIMEDIA IN ACTION 2025** dan menyalurkan potensi kami dalam dunia digital.
+
+---
+
+## 🤝 Kontribusi
+
+Kami sangat terbuka untuk kontribusi dan *feedback* untuk mengembangkan ekosistem digital UMKM Madura lebih jauh. Silakan ajukan *Pull Request* atau laporkan *issue*.
